@@ -1,6 +1,9 @@
 # mealsapp
 
-A new Flutter project.
+Meals App Flutter project.
+
+<img width="464" alt="image" src="https://github.com/user-attachments/assets/96053634-dfa3-47bc-93f7-5c6351060123" />
+
 
 ## Getting Started
 
